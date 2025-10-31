@@ -12,3 +12,8 @@ print(type(c))
 print(type(d))
 print(type(e))
 print(type(f))
+def app():
+   a = 20
+   b = 30
+   return(a+b)
+app()
